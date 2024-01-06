@@ -9,7 +9,7 @@ A dAPP for BlockchainUNN created in partial fulfillment of the requirements to b
 
 BUNN-DAO is a decentralized autonomous organization that aims to create a community-driven platform for funding and support social impact projects in UNN tech space. 🙌 
 
-It is powered by Ethereum (currenty sepolia test net), Solidity, React, nextJS, 
+### It is powered by Ethereum (currenty sepolia test net), Solidity, nextJS, RainbowKit, Wagmi
 
   
 
